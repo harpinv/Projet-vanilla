@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+button {
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin: 280px 50px;
+}
+
+#suivant {
+    float: right;
+}
